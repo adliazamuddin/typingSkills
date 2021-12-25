@@ -10,7 +10,8 @@ All information about typing skills
 ## Guide
 ![Screenshot](img.jpg)
 
-Tips : - [x] Do not look at the keyboard
-- [x] Also remember to use the correct fingers
+* Tips 
+  - [x] Do not look at the keyboard
+  - [x] Also remember to use the correct fingers
   - [ ] take the path of least resistance
   - [ ] Gaming =/= (typing) exercise/Type a lot everyday
