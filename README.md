@@ -7,5 +7,11 @@ All information about typing skills
 2. https://www.keybr.com/
 3. https://zty.pe/
 
-## Picture Guide
+## Guide
 ![Screenshot](img.jpg)
+
+-Tips
+  - [x] Do not look at the keyboard
+  - [x] Also remember to use the correct fingers
+  - [ ] take the path of least resistance
+  - [ ] Gaming =/= (typing) exercise/Type a lot everyday
