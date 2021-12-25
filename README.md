@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="typing.gif" alt="animated" width="300"/>
+</p>
+
 # typingSkills
 All information about typing skills to increase typing speed WPM(word per minute)
 
