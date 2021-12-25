@@ -8,10 +8,11 @@ All information about typing skills
 3. https://zty.pe/
 
 ## Guide
-![Screenshot](img.jpg)
 
 * Tips 
   - [x] Do not look at the keyboard
   - [x] Also remember to use the correct fingers
-  - [ ] take the path of least resistance
+  - [ ] Take the path of least resistance
   - [ ] Gaming =/= (typing) exercise/Type a lot everyday
+
+![Screenshot](img.jpg)
