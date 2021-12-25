@@ -1,5 +1,5 @@
 # typingSkills
-All information about typing skills
+All information about typing skills to increase typing speed WPM(word per minute)
 
 
 ## Websites
